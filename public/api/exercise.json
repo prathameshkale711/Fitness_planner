@@ -1,0 +1,30 @@
+[
+  {
+    "id": "0001",
+    "name": "Push Up",
+    "target": "chest",
+    "equipment": "bodyweight",
+    "gifUrl": "https://i.pinimg.com/originals/7e/9f/7b/7e9f7b8c1f75e1a9c2d77c9a9b1c62c1.gif"
+  },
+  {
+    "id": "0002",
+    "name": "Squat",
+    "target": "legs",
+    "equipment": "bodyweight",
+    "gifUrl": "https://i.pinimg.com/originals/9e/ed/87/9eed87d6d7b39e3b25a9c5b6b36b2bde.gif"
+  },
+  {
+    "id": "0003",
+    "name": "Bicep Curl",
+    "target": "arms",
+    "equipment": "dumbbell",
+    "gifUrl": "https://i.pinimg.com/originals/1f/16/9c/1f169c8e6e4d5eacb3b9f6b21f2d1f61.gif"
+  },
+  {
+    "id": "0004",
+    "name": "Shoulder Press",
+    "target": "shoulders",
+    "equipment": "dumbbell",
+    "gifUrl": "https://i.pinimg.com/originals/7b/35/39/7b3539d9a28bb5b1b11c3fdc0f84df90.gif"
+  }
+]
